@@ -16,7 +16,7 @@ We think a lot of aspiring researchers are training for a job that won't exist i
 
 ## What's expected of you
 
-Take your research proposal that you submitted and spend seven days producing a first-draft research artifact using any AI auto-research system you choose. We personally use [Autovoila](https://github.com/paraschopra/autovoila), but you're welcome to use any system (they're just prompts). We'll reimburse your API costs up to $50 against receipts.
+Take your research proposal that you submitted and spend seven days producing a first-draft research artifact using any AI auto-research system you choose. We personally use [Autovoila](https://github.com/paraschopra/autovoila), but you're welcome to use any system (they're just prompts). We will give a budget of $50 in credits/compute for this stage (initially $20, and if you require more, up to $30 more later).
 
 Submit two things:
 
@@ -80,7 +80,7 @@ Things that will reduce your chance of being accepted:
 ## Logistics
 
 - **Time budget:** 7 days from when you receive this challenge.
-- **API costs:** Up to $50 reimbursed against receipts. Submit receipts with your application. We pay this even if we don't accept you; the exercise is worth doing and we want to remove the financial barrier.
+- **API costs:** Up to $50 in credits / compute. Lossfunk team will send you openrouter or cloud compute credits (initially $20, and if you require more, up to $30 more later).
 - **Format:** Submit link to github repo and a deck (PDF)
 - **Review timeline:** We aim to respond within 14 days of submission.
 
